@@ -3,19 +3,19 @@
 <h2 align="center"> 👀 I'm interested in Software Engineering / ML/AI Engineering / Data Learning</h2>
 
 <br>
-<img align="right" width=150px height=150px alt="side_sticker" src="https://github.com/VarunManik/VarunManik10/blob/main/developer.gif" />
+<img align="right" width=300px height=200px alt="side_sticker" src="https://github.com/VarunManik/VarunManik10/blob/main/developer.gif" />
 
-* 🎓 A Computer Science Graduate student at California State University, Long Beach.
+* 🎓 A Computer Science Graduate student at California State University, Long Beach. (May'27)
 * 🔧 I'm currently working on an exciting new project in Machine Learning, pushing the boundaries of what's possible
 * 👯 I’m looking forward to collaborate on open source projects.
 * ✔ Fun fact : I Always try to learn something new and then sleep till it store in the brain 😎
 <br>
 
 <h2>🔨💻 Programming Languages, Frameworks, Libraries, Databases and Tools</h2>
-<img align="right" width=150px height=150px alt="side_sticker" src="" />
+<img align="right" width=250px height=250px alt="side_sticker" src="https://github.com/VarunManik/VarunManik10/blob/main/gif.gif" />
 
 <p>
-  // languages
+  <!-- // languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="c" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50" />
@@ -24,7 +24,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="bash" width="50" height="50" />
-  // DataBases
+  <!-- // DataBases -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-plain.svg" alt="sql" width="50" height="50" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" alt="mongodb" width="50" height="50" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" alt="sqllite" width="50" height="50" />
@@ -32,9 +32,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cassandra/cassandra-original.svg" alt="cassandra" width="50" height="50" />
 
-  // framework
+  <!-- // Framework -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="50" height="50" />
-  <img src="http://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="django" width="50" height="50" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" alt="django" width="50" height="50" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-plain.svg" alt="gcp" width="50" height="50" />
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" alt="keras" width="50" height="50" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="50" height="50" />
@@ -49,7 +49,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html" width="50" height="50" />
 
-  // tools and platforms
+  <!-- // Tools and framework -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-original.svg" alt="confluence" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" alt="jira" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="github" width="50" height="50" />
@@ -63,10 +63,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" alt="anaconda" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original-wordmark.svg" alt="opencv" width="50" height="50" />
   
-  // Cloud and Devops
+  <!--// Cloud and Devops -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hadoop/hadoop-original.svg" alt="hadoop" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="50" height="50" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="gcp" width="50" height="50" />
 
 
   
