@@ -12,7 +12,7 @@
 <br>
 
 <h2>🔨💻 Programming Languages, Frameworks, Libraries, Databases and Tools</h2>
-<img align="right" width=250px height=250px alt="side_sticker" src="https://github.com/VarunManik/VarunManik10/blob/main/gif.gif" />
+<img align="right" width=250px height=250px alt="side_sticker" src="https://github.com/VarunManik/VarunManik10/blob/main/giphy.gif" />
 
 <p>
   <!-- // languages -->
@@ -35,7 +35,8 @@
   <!-- // Framework -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="50" height="50" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" alt="django" width="50" height="50" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-plain.svg" alt="gcp" width="50" height="50" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-plain.svg" alt="net" width="50" height="50" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original.svg" alt="spark" width="50" height="50" />
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" alt="keras" width="50" height="50" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" alt="pytorch" width="50" height="50" />
@@ -48,6 +49,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css3" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html" width="50" height="50" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" alt="html" width="50" height="50" />
 
   <!-- // Tools and framework -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-original.svg" alt="confluence" width="50" height="50" />
