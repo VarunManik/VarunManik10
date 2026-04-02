@@ -10,7 +10,7 @@
 * 👯 I’m looking forward to collaborate on open source projects.
 * ✔ Fun fact : I Always try to learn something new and then sleep till it store in the brain 😎
 <br>
-
+<br>
 <h2>🔨💻 Programming Languages, Frameworks, Libraries, Databases and Tools</h2>
 <img align="right" width=250px height=250px alt="side_sticker" src="https://github.com/VarunManik/VarunManik10/blob/main/giphy.gif" />
 
@@ -73,11 +73,22 @@
 
 
   
-  
 
 </p>
 
-<h3> Track Record </h3>
+<h2> &#128640; Track Record</h2>
 
 * Worked in Hp inc.<br>
 * Worked in iotiot.in
+
+<h2> 🔗 Connect with Me</h2>
+ <p>
+<a href="https://www.linkedin.com/in/varun-manik-a2925b21a/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+   
+<a href="mailto:manikvarun77@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+ </p>
+---
